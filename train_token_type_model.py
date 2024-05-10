@@ -42,5 +42,5 @@ def train_for_benchmark():
 if __name__ == "__main__":
     print("start")
     start = time()
-    # train_for_benchmark()
+    train_for_benchmark()
     print("finished in", time() - start, "seconds")
