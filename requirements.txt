@@ -1,0 +1,2 @@
+git+https://github.com/huridocs/pdf-tokens-type-labeler@6412d69bbb33819625fdc73e8070092800295f73
+git+https://github.com/huridocs/pdf_paragraphs_extraction@ff8744f4d11ec63c885a25b58a952fa802813b58
